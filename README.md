@@ -1,2 +1,2 @@
 # Python_projects  
-In this repository, a few python assignments are collected (nine branches)
+In this repository, a few simple python assignments are collected (nine branches)
